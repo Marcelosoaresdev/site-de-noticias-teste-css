@@ -1,2 +1,2 @@
 # site-de-noticias-teste-css
- Usando um Index.html já pronto, e desvendando os usos do CSS
+ Praticando usos de HTML e CSS por parte do curso da EBAC
