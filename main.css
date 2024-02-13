@@ -135,3 +135,13 @@ section h2
 {
     background-color: #84b6f4;
 }
+
+#tecnology
+{
+    background-color: #ff9688;
+}
+
+#tecnology .articles article a
+{
+    background-color: #ff6961;
+}
